@@ -44,3 +44,13 @@ img {
 img {
   width: 100%;
 }
+
+@media(min-width:400px) {
+    h1,h2,h3{
+        font-size: 15px;
+        font-weight: 800;
+
+    }
+
+    
+}
