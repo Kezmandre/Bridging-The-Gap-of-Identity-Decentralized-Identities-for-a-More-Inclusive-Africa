@@ -26,9 +26,9 @@ span {
   font-weight: 600;
 }
 
-.image {
+.image,img {
   margin: 10px auto;
-  width: 50%;
+  width: 80%;
 }
 
 img {
