@@ -13,7 +13,7 @@ div {
   width: 90%;
   margin: 0 auto;
   padding: 10px 0;
-  white-space: normal;
+  white-space: pre-wrap;
 }
 
 article,
