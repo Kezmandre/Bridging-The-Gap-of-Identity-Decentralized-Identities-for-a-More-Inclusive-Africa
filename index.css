@@ -46,7 +46,7 @@ img {
   width: 100%;
 }
 
-@media(min-width:400px) {
+@media(max-width:780px) {
     h1,h2,h3{
         font-size: 17px;
         font-weight: 800;
