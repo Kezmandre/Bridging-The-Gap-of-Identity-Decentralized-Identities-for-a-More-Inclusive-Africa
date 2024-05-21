@@ -1,17 +1,36 @@
-
-body{
-    margin: 0;
-    text-align: start;
-    font-family: sans-serif;
+body {
+  margin: 0;
+  text-align: justify;
+  font-family: serif;
+}
+h1,
+h2,
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-div{
-    width: 90%;
-    margin: 0 auto;
+div {
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
+  
 }
 
+article,
+p {
+  font-size: 18px;
+  line-height: 30px;
+}
 
-article{
-    font-size: 16px;
-    line-height: 30px;
+span {
+  font-weight: 600;
+}
+
+.image {
+  margin: 10px auto;
+  width: 50%;
+}
+
+img {
+  width: 100%;
 }
