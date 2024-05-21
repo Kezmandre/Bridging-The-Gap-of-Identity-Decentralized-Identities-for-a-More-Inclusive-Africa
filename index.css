@@ -18,7 +18,7 @@ h2 {
 div {
   width: 90%;
   margin: 0 auto;
-  padding: 10px 0;
+  padding: 10px;
 
   /* white-space:normal; */
   white-space: white-space-trim;
@@ -28,6 +28,7 @@ article,
 p {
   font-size: 18px;
   line-height: 30px;
+  white-space: normal;
 }
 
 span {
@@ -52,5 +53,8 @@ img {
 
     }
 
+     article, p{
+        font-size: 17px;
+    }
     
 }
